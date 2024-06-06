@@ -3,3 +3,10 @@ div {
     border-radius: 50px;
     padding: 20px;
 }
+
+ul {
+    display: flex;
+    text-decoration: none;
+    height: 60px;
+    background-color: burlywood;
+}
